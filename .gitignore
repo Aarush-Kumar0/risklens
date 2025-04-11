@@ -1,1 +1,17 @@
+# macOS system file
+.DS_Store
+
+# Environment variables
 .env
+
+# Node modules 
+node_modules/
+
+# Logs
+*.log
+
+# Vercel local settings
+.vercel/
+
+# OS-specific trash
+Thumbs.db
